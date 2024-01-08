@@ -280,6 +280,30 @@ namespace RMS_Management_System.Controllers
 
 
 
+        // Student can download his course only
+
+        [HttpGet]
+        public IActionResult DownloadCourse(int Id)
+        {
+            var student = context.Students.Where(s => s.StudentId == Id).Include(c => c.CourseList).FirstOrDefault();
+
+            if (student != null && student.CourseList != null && !string.IsNullOrEmpty(student.CourseList.CoursePdf))
+            {
+                var pdfPath = Path.Combine(webHostEnvironment.WebRootPath, "PdfFolder", student.CourseList.CoursePdf);
+
+                if (System.IO.File.Exists(pdfPath))
+                {
+                    // Retrieve the PDF file content
+                    var pdfBytes = System.IO.File.ReadAllBytes(pdfPath);
+
+                    // Return the file using PhysicalFile
+                    return PhysicalFile(pdfPath, "application/pdf", $"{student.CourseList.CourseName}_Course.pdf");
+                }
+            }
+
+            // Handle if the student, course, or PDF is not found
+            return NotFound();
+        }
 
 
 

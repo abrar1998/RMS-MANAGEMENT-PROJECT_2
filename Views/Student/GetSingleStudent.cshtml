@@ -88,6 +88,14 @@
                 @Html.ActionLink("Edit", "Edit", new {  id=item.StudentId }) 
                 @* @Html.ActionLink("Details", "Details", new { id = item.StudentId })  *@
                 @Html.ActionLink("Delete", "Delete", new { id = item.StudentId })
+                @* @Html.ActionLink("DownloadCourse", "DownloadCourse", new { id = item.StudentId }) *@
+
+                   
+                @* <a href="@Url.Action("DownloadCourse", "Student", new { courseId = item.StudentId })">Download PDF</a> *@
+
+                <a asp-action="DownloadCourse" asp-controller="Student" asp-route-id="@item.StudentId">Download PDF</a>
+
+
             </td>
         </tr>
 }
