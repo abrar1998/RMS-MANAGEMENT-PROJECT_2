@@ -1,0 +1,325 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RMS-Management-System.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RMS-Management-System.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\Images\\5e86bf9d-6d1c-4471-a793-4b2d3906d6fc-gulab.jpeg",
+      "PackagePath": "staticwebassets\\Images\\5e86bf9d-6d1c-4471-a793-4b2d3906d6fc-gulab.jpeg"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\Images\\ansar_b977.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ansar_b977.jpeg"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\Images\\cat1_6ece.jpg",
+      "PackagePath": "staticwebassets\\Images\\cat1_6ece.jpg"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\Images\\cat2_a898.jpg",
+      "PackagePath": "staticwebassets\\Images\\cat2_a898.jpg"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\Images\\cat2_b987.jpg",
+      "PackagePath": "staticwebassets\\Images\\cat2_b987.jpg"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\Images\\cat2_caf8.jpg",
+      "PackagePath": "staticwebassets\\Images\\cat2_caf8.jpg"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\Images\\dbf98063-94b0-4a4d-b4a4-282fe1d6091a-ansar.jpeg",
+      "PackagePath": "staticwebassets\\Images\\dbf98063-94b0-4a4d-b4a4-282fe1d6091a-ansar.jpeg"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\Images\\gulab_0310.jpeg",
+      "PackagePath": "staticwebassets\\Images\\gulab_0310.jpeg"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\Images\\gulab_2685.jpeg",
+      "PackagePath": "staticwebassets\\Images\\gulab_2685.jpeg"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\Images\\gulab_d989.jpeg",
+      "PackagePath": "staticwebassets\\Images\\gulab_d989.jpeg"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\Images\\gulab_e1a7.jpeg",
+      "PackagePath": "staticwebassets\\Images\\gulab_e1a7.jpeg"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\Images\\photo_2023-12-21_15-52-37_cb9d.jpg",
+      "PackagePath": "staticwebassets\\Images\\photo_2023-12-21_15-52-37_cb9d.jpg"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\Images\\rms.webp",
+      "PackagePath": "staticwebassets\\Images\\rms.webp"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\PdfFolder\\7ad172b3-a065-4f43-88b5-fc55d85a85db-C#(c-sharp)_Course.pdf",
+      "PackagePath": "staticwebassets\\PdfFolder\\7ad172b3-a065-4f43-88b5-fc55d85a85db-C#(c-sharp)_Course.pdf"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\PdfFolder\\d71a797a-3cf7-45a7-b533-dcd22cb92627-AspNetCore_Course.pdf",
+      "PackagePath": "staticwebassets\\PdfFolder\\d71a797a-3cf7-45a7-b533-dcd22cb92627-AspNetCore_Course.pdf"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\C-Sharp\\.NET7\\RMS-Management-System\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RMS-Management-System.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RMS-Management-System.props",
+      "PackagePath": "build\\RMS-Management-System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RMS-Management-System.props",
+      "PackagePath": "buildMultiTargeting\\RMS-Management-System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RMS-Management-System.props",
+      "PackagePath": "buildTransitive\\RMS-Management-System.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
