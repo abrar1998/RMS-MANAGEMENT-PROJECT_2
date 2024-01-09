@@ -186,12 +186,6 @@ namespace RMS_Management_System.Controllers
 
             if (ModelState.IsValid)
             {
-
-                
-
-               /* context.Students.Update(oldstudent);
-                await context.SaveChangesAsync();*/
-
                 // Handle new photo upload if the user wants to change the photo
                 if (newPhoto != null && newPhoto.Length > 0)
                 {

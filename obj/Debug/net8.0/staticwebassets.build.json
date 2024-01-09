@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Qi8BVBWkLAEHZ+AI8GF381SEkJlF3zZ/Gx073n2Jm8Q=",
+  "Hash": "hvRravfz6K0TkYS/hlnypOaUNRcT+n8zt1QbULk+IAo=",
   "Source": "RMS-Management-System",
   "BasePath": "_content/RMS-Management-System",
   "Mode": "Default",
@@ -1480,25 +1480,6 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\darab\\OneDrive\\Desktop\\RMS Management\\RMS-Management-System\\wwwroot\\PdfFolder\\7ad172b3-a065-4f43-88b5-fc55d85a85db-C#(c-sharp)_Course.pdf",
-      "SourceId": "RMS-Management-System",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\darab\\OneDrive\\Desktop\\RMS Management\\RMS-Management-System\\wwwroot\\",
-      "BasePath": "_content/RMS-Management-System",
-      "RelativePath": "PdfFolder/7ad172b3-a065-4f43-88b5-fc55d85a85db-C#(c-sharp)_Course.pdf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\PdfFolder\\7ad172b3-a065-4f43-88b5-fc55d85a85db-C#(c-sharp)_Course.pdf"
-    },
-    {
       "Identity": "C:\\Users\\darab\\OneDrive\\Desktop\\RMS Management\\RMS-Management-System\\wwwroot\\PdfFolder\\d71a797a-3cf7-45a7-b533-dcd22cb92627-AspNetCore_Course.pdf",
       "SourceId": "RMS-Management-System",
       "SourceType": "Discovered",
@@ -1516,6 +1497,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\PdfFolder\\d71a797a-3cf7-45a7-b533-dcd22cb92627-AspNetCore_Course.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\darab\\OneDrive\\Desktop\\RMS Management\\RMS-Management-System\\wwwroot\\PdfFolder\\Resume_8de6.pdf",
+      "SourceId": "RMS-Management-System",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\darab\\OneDrive\\Desktop\\RMS Management\\RMS-Management-System\\wwwroot\\",
+      "BasePath": "_content/RMS-Management-System",
+      "RelativePath": "PdfFolder/Resume_8de6.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\PdfFolder\\Resume_8de6.pdf"
     }
   ]
 }

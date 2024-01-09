@@ -14,5 +14,6 @@ namespace RMS_Management_System.DataContext
         public DbSet<Student> Students { get; set; }
         public DbSet<Course> Courses { get; set; }  
         public DbSet<RMS_Management_System.Migrations.Models.StudentViewEdit> StudentViewEdit { get; set; } = default!;
+        public DbSet<RMS_Management_System.Migrations.Models.CourseViewEdit> CourseViewEdit { get; set; } = default!;
     }
 }
